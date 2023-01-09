@@ -1,0 +1,10 @@
+body {
+    background-color: #0f2027;
+    background-color: -webkit-linear-gradient(to right, #2c5364, #203a43, #0f2027);
+    background: linear-gradient(to right, #2c5364, #2c5364, #0f2027);
+    color: white;
+}
+
+.filtro {
+    display: none;
+}
